@@ -12,7 +12,7 @@ A wiki for drones
     - Casi todos tienen un atmega8 dentro
 
 
-3. Firmware open source para "cargadores de baterias":
+3. Firmware open source para "cargadores de baterías":
 
     - [Cheap lipo charger](https://github.com/stawel/cheali-charger)
     - Hay un modelo por 16€  muy potable
