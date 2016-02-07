@@ -2,7 +2,7 @@
 
 1. Firmware open source para emisoras Walkera:
 
-    - Walkera devention tx firmware hacking project [DEVIATION](http://www.deviationtx.com/)
+    - Walkera devention tx firmware hacking [Project DEVIATION](http://www.deviationtx.com/)
     - Precio estimado - 40€
 
 2. Firmware open source para variadores de motores brushless:
