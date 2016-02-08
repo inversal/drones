@@ -14,5 +14,5 @@
 3. Firmware open source para "cargadores de baterías":
 
     - [Cheap lipo charger](https://github.com/stawel/cheali-charger)
-    - Hay un modelo por menos de 30€ muy recomendable (http://www.hobbyking.com/hobbyking/store/__5548__IMAX_B6_50W_5A_Charger_Discharger_1_6_Cells_GENUINE_.html)
+    - Hay un modelo por menos de 30€ muy recomendable [iMax B6 50W](http://www.hobbyking.com/hobbyking/store/__5548__IMAX_B6_50W_5A_Charger_Discharger_1_6_Cells_GENUINE_.html)
 
